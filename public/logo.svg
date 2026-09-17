@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <!-- Dark Background Container -->
+  <rect x="10" y="10" width="140" height="140" rx="32" fill="#080c14" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1.5"/>
+
+  <!-- Monogram A (White) with Forward Arrow (Cyan Blue) -->
+  <g transform="translate(18, 42)">
+    <!-- Letter 'A' Structure (Pure White) -->
+    <path d="M 12 72 L 34 16 L 56 72" fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Forward Arrow Extending From Crossbar (Cyan Blue) -->
+    <path d="M 23 48 L 102 48" fill="none" stroke="#06b6d4" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M 94 41 L 103 48 L 94 55" fill="none" stroke="#06b6d4" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 56" width="100%" height="100%">
+  <!-- High Contrast Horizontal Wordmark -->
+  <text x="150" y="34" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-weight="800" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="-0.5">Algo<tspan fill="#38bdf8">Craft</tspan></text>
+  <text x="150" y="50" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" fill="#38bdf8" opacity="0.9" letter-spacing="3" text-anchor="middle">ALGORITHM VISUALIZER</text>
+</svg>

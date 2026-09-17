@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 100" width="100%" height="100%">
+  <!-- Icon: White A + Vibrant Blue Arrow -->
+  <g transform="translate(20, 25)">
+    <!-- Letter 'A' (Pure White) -->
+    <path d="M 8 48 L 24 12 L 40 48" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Arrow (Vibrant Electric Blue) -->
+    <path d="M 15 34 L 72 34" fill="none" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 64 27 L 73 34 L 64 41" fill="none" stroke="#38bdf8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Divider -->
+  <line x1="115" y1="25" x2="115" y2="75" stroke="rgba(255, 255, 255, 0.2)" stroke-width="2"/>
+
+  <!-- Brand Typography -->
+  <text x="135" y="52" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-weight="800" font-size="32" fill="#ffffff" letter-spacing="-0.5">Algo<tspan fill="#38bdf8">Craft</tspan></text>
+  <text x="137" y="70" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#94a3b8" letter-spacing="2.5">ALGORITHM VISUALIZER</text>
+</svg>
